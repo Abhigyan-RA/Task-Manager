@@ -7,16 +7,16 @@ View Tasks: Users can view a list of tasks with their details.
 Update Task: Users can mark tasks as completed or update task details.
 Delete Task: Users can delete tasks from the list.
 
-## Technologies Used
+# Technologies Used
 
-# Frontend:
+## Frontend:
 HTML
 Vanilla JavaScript
 
-# Backend:
+## Backend:
 Node.js
 Express.js
-# Database:
 
+## Database:
 MongoDB
 Mongoose (ODM for MongoDB)
