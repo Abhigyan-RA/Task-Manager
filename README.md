@@ -10,13 +10,13 @@ Delete Task: Users can delete tasks from the list.
 # Technologies Used
 
 ## Frontend:
-HTML
+HTML,
 Vanilla JavaScript
 
 ## Backend:
-Node.js
+Node.js,
 Express.js
 
 ## Database:
-MongoDB
+MongoDB,
 Mongoose (ODM for MongoDB)
